@@ -1,0 +1,5 @@
+[package]
+org = "danniles"
+name = "web_fetch_agent"
+version = "0.1.0"
+title = "web-fetch-agent"
